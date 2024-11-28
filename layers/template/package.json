@@ -1,0 +1,16 @@
+{
+  "name": "@belton/template",
+  "version": "0.0.1",
+  "private": true,
+  "type": "module",
+  "main": "./nuxt.config.ts",
+  "devDependencies": {
+    "@bootstrap-vue-next/nuxt": "^0.25.10",
+    "bootstrap": "^5.3.3",
+    "bootstrap-vue-next": "^0.25.10",
+    "sass": "~1.64.2"
+  },
+  "dependencies": {
+    "animate.css": "^4.1.1"
+  }
+}

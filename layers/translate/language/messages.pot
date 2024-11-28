@@ -1,0 +1,8 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+#: ../../layers/app/pages/index.vue:12
+#: ../../layers/app/pages/index.vue:8
+msgid "hello page"
+msgstr ""
