@@ -9,6 +9,7 @@ import 'bootstrap'
 
       <TemplateHeader />
       <TemplateBody />
+      <TemplateFooter />
     </div>
   </body>
 </template>
