@@ -5,7 +5,7 @@ import 'bootstrap'
 <template>
   <body>
     <div class="page-wrapper">
-      <!-- engloba todo hasta el footer -->
+      <!-- este div engloba todo hasta el footer -->
 
       <TemplateHeader />
       <TemplateBody />
